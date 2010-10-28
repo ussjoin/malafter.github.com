@@ -1,0 +1,13 @@
+{% include head.html %}
+
+
+<hr />
+<div><a href="{{page.url}}">{{ page.title }}</a></div>
+<div>{{ page.date | date: "%A, %B %d %Y"}}</div>
+<div class="comments"><a href="#disqus_thread">Comments</a></div>
+<hr />
+{{ content }}
+
+{% include comments.html %}
+
+{% include foot.html %}
