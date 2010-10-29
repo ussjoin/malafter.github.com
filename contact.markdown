@@ -1,0 +1,119 @@
+--- 
+layout: default
+title: Contact
+---
+
+We appreciate your interest in speaking with Malice Afterthought! The best way to reach is is through email: info < at > maliceafterthought < dot > com works quite nicely. If you wish to contact us using secure email, please use the key identified as [0xB58EDA54][key] on standard keyservers; it is also available below.
+
+Alternately, you may also call us using the Google Voice widget below.
+
+<object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=9242d0663022a959e49f70bcd35ec49a8dcfe380&style=0" /></object>
+
+<pre>
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+  Version: SKS 1.1.1
+
+  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
+  GLut+rClcBHAxLR5yCiGCbQmQnJlbmRhbiBPJ0Nvbm5vciA8dXNzam9pbkB1c3Nqb2luLmNv
+  bT6JAjsEEwECACUCGwMGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheABQJMjEHkAhkBAAoJEP6v
+  ro+1jtpUUiAP+wd2/mNRE8dclQgjBbJKIzHfWNdCh2F4TGVbaU2ppdVytZ4TmknEdtP1WjAS
+  7W/S31tlnoNIFHr9pgA6Qk+YM3Qim/b7fl5g+mlJGwEubjuHqi81q/HjwqMq7kamYIUTZaQG
+  mMG0Tsp49enzS/32u6qmue8uqrFxM3FIewpDMSxfLom4NuqnLmXuMXYmkrHu7gaihqV7kqRz
+  2hKkOLWVb6v54heBnxF9wz/sVcXnWyb6EsPrEYwelSqK+NipARkO0GuDvygV3Sy9LKV/+0/R
+  PADxwOIXQHssFcHf22oqcYkAQTnJmHLfU3tFlgN6UMua3CxqHMsL2PD+ZxTHRUtjGxfNoJTj
+  pwc+KioXIDqUfx8MmJ9dbXds+1S6VPMMaqX4rDk/4vrQ5lbkShjgcOlW5c0xyZCIZblhoTih
+  zi0chS6JDyxCeij8H4Lgn59hg8Bt+6V4eDIzg6Cdk1vozljMTcmSz7muRgu5cMbRblSmmzc9
+  e8nCOkNy9mdXWeled7J8ly0djfRmoIb+b3DPVNNShGuPF5bD6A/Gqi6psQ2wXY2wRH5tyPjq
+  VTOv/xTNJHFZZSWEppaGLtkcwIxxokDtLtYc8aWt7g5JxgrT1MP6K9A9+TxTLPOM2yLsTcnF
+  nDF8jxC8M3j0/a1BACSkHzboibNIbnmvxGaNy6J3BTQuH8I7tDFCcmVuZGFuIE8nQ29ubm9y
+  IDxicmVuZGFuQG1hbGljZWFmdGVydGhvdWdodC5jb20+iQI4BBMBAgAiBQJMyiE0AhsDBgsJ
+  CAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRD+r66PtY7aVFurD/94s3PEYI50ocjFWN3QsQEg
+  snGB+MoOUa7mgAU5Fvh6YMZ3yyjfgeZawMfDmbNBM3LY+EZjeaOubothm+H1q0yj6Rwv84On
+  Ti2DurbXR4iAjBDBKxaUP1FC5o66ZZswWdPInwPlfmkmW74A4fnoKCy1JoKaxvvLZOvsE1Gu
+  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
+  EuJQBdlnVWxzeMsLA/fVc1RJ8ph18A==
+  =DsTi
+  -----END PGP PUBLIC KEY BLOCK-----
+</pre>
+
+[key]: http://pool.sks-keyservers.net:11371/pks/lookup?op=get&search=0xFEAFAE8FB58EDA54
