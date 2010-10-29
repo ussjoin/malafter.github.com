@@ -9,24 +9,34 @@ layout: nil
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://blog.ussjoin.com/</loc>
+  <loc>http://www.maliceafterthought.com/</loc>
   <priority>1</priority>
-  <lastmod>{{ site.posts[0].date|date:"%Y-%m-%d"}}</lastmod>
+  <lastmod>2010-10-28</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://blog.ussjoin.com/archives.html</loc>
+  <loc>http://www.maliceafterthought.com/why.html</loc>
   <priority>0.8</priority>
-  <lastmod>{{ site.posts[0].date|date:"%Y-%m-%d"}}</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2010-10-28</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
-{% for post in site.posts%}
 <url>
-  <loc>http://blog.ussjoin.com{{ post.id }}</loc>
-  <priority>0.5</priority>
-  <lastmod>{{ post.date|date:"%Y-%m-%d"}}</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>http://www.maliceafterthought.com/software.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2010-10-28</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
-{% endfor %}
+<url>
+  <loc>http://www.maliceafterthought.com/services.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2010-10-28</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.maliceafterthought.com/contact.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2010-10-28</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 
 </urlset>
