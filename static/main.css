@@ -32,19 +32,29 @@ a:visited {
 
 .head
 {
-    height:200px;
+    height:355px;
+    width:1000px;
     clear:both;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .logo
 {
   font-size:1000%;
-  float:left;
+  color: #000000;
+  clear:both;
+  height:255px;
+  width: 500px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .logo a
 {
+    width:100%;
     color: #000000;
+    clear:both;
 }
 
 .links
@@ -65,10 +75,10 @@ a:visited {
 
 .navigation
 {
+	margin-bottom:50px;
+	width: 800px;
 	margin-left:auto;
 	margin-right:auto;
-	width:100%;
-	margin-bottom:50px;
 }
 
 .navigation li

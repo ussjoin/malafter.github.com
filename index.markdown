@@ -7,4 +7,6 @@ Hello and welcome to Malice Afterthought, Inc. We're a software and security con
 
 In addition to work performed for clients, we also create our own software; check out the "Software We've Released" section, above, for more information on how to obtain our commercial software.
 
-Please check out our site, and feel free to contact us on the "Contact" page!
+Please feel free to contact us on the "Contact" page!
+
+Malice Afterthought. Think again.

@@ -3,9 +3,9 @@ layout: default
 title: Contact
 ---
 
-We appreciate your interest in speaking with Malice Afterthought! The best way to reach is is through email: info < at > maliceafterthought < dot > com works quite nicely. If you wish to contact us using secure email, please use the key identified as [0xB58EDA54][key] on standard keyservers; it is also available below.
+We appreciate your interest in speaking with Malice Afterthought! The best way to reach us is through email: info < at > maliceafterthought < dot > com works quite nicely. If you wish to contact us using secure email, please use the key identified as [0xB58EDA54][key] on standard keyservers; it is also available below.
 
-Alternately, you may also call us using the Google Voice widget below.
+Alternately, you may also call us at 406-545-0430.
 
 <object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=9242d0663022a959e49f70bcd35ec49a8dcfe380&style=0" /></object>
 
