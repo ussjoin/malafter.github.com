@@ -10,7 +10,7 @@ title: Software We've Created
     
     Ham Exam is available on the Android Market and the App Store.
     
-    <a href="market://search?q=pname:com.maliceafterthought.hamexam"><img src="/static/android.png" alt="Android Market" title="Available on the Android Market" height="40" width="120" /></a>
+    <a href="http://market.android.com/details?id=com.maliceafterthought.hamexam"><img src="/static/android.png" alt="Android Market" title="Available on the Android Market" height="40" width="120" /></a>
     <a href="http://itunes.apple.com/us/app/ham-exam/id401049184"><img src="/static/appstore.png" alt="App Store" title="Available on the App Store" height="40" width="120" /></a>
 * Open Source Work
   * Check out our contributions to the open source world on [GitHub][] and [CPAN][].
