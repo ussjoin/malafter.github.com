@@ -1,6 +1,0 @@
-auto: true
-pygments: true
-markdown: rdiscount
-permalink: /blog/:year/:month/:title.html
-server: true
-server_port: 4000
